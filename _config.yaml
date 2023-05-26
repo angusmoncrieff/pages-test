@@ -5,3 +5,6 @@ relative_links:
   collections: true
 include:
   - README.md
+  - blah/TEST2.md
+exclude:
+  - TEST2.md
